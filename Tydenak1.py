@@ -18,9 +18,9 @@ for i in wreps:
             
 print (result1)
 print ('\n')
-print (len(result1))
+print ('Počet řešení bez opakování: ' len(result1))
 print ('\n')
 print ('\n')
 print (result2)
 print ('\n')
-print (len(result2))
+print ('Počet řešení s opakováním: ' len(result2))
